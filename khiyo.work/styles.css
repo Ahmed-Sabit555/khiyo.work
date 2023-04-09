@@ -1,0 +1,94 @@
+/* ............Body ................ */
+/* extra fonts 
+font-family: 'Barriecito', cursive;
+font-family: 'Barrio', cursive;
+*/
+
+*{
+   background-color: #FEEFDD;
+   font-family: 'Barrio', cursive;
+}
+
+/*.................. body.................. */
+h2 {
+    font-size: 60px;
+    margin-left: 40px;
+}
+nav {
+    display: flex;
+    justify-content: space-between;
+    padding: 20px ;
+    margin-bottom: 30px;
+}
+ul {
+    list-style-type: none;
+}
+.button {
+    font-size: 14px;
+    background-color:#21DCA7;
+    border: 1px solid black;
+    box-shadow: 4px 4px 3px 0px rgb(0, 0, 0);
+    padding: 15px 42px ;
+    margin: 30px 120px 25px 1px;
+    border-radius: 10px;
+    text-align: center;
+}
+.logo {
+    margin: 30px 1px 30px 120px;
+    width: 150px;
+}
+
+.project-card {
+    width: 300px;
+    height: 180px;
+    background-color: #FF5D26;
+    margin: 50px 120px 1px 30px;
+    border-radius: 12px;
+    border: 1px solid black;
+    box-shadow: 8px 8px 3px 0px rgb(0, 0, 0);
+}
+.project-container {
+    display: flex;
+    justify-content: space-around;
+}
+.box {
+    display: flex;
+    justify-content: space-around;
+    background-color: #FF5D26;
+    width: 300px;
+    height: 180px;
+    border-radius: 12px;
+}
+.project-card-left {
+    font-size: 10px;
+    background-color: #FF5D26;
+    width: 60px;
+    height: 120px;
+    padding: 20px 5px 5px
+}
+.snd-button {
+    width: 70px;
+    height: 15px; 
+    border-radius: 5px;
+    text-align: center;
+    border: 1px solid rgb(255, 255, 255);
+    padding: 5px 2px 0px;
+    color: white;
+    background-color: #FF5D26;
+    font-weight: 300;
+    font-family: 'Barriecito', cursive;
+    box-shadow: 2px 2px 0px 0px rgb(255, 255, 255);;
+}
+.pic {
+    width: 100px;
+    height: 140px;
+    padding: 20px 30px;
+    background-color: #FF5D26;
+}
+h3 {
+    text-align: center;
+    background-color: #FF5D26;
+    font-size: 20px;
+    color: white;
+    font-weight: 300;
+}

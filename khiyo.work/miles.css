@@ -1,0 +1,122 @@
+nav {  
+    display: flex; 
+    justify-content: space-between;
+} 
+.logo { 
+   width: 120px;
+   margin: 30px;
+   display: flex;
+   justify-content: flex-end; 
+}
+/* ul {  
+      display: flex; 
+      list-style-type: none;
+      width: 100px; 
+      justify-content: flex-end; 
+      font-size: 30px; 
+}  */
+.horizontal {
+   display: flex;
+   flex-direction: row;
+   width: 40px;
+}
+/* .drawing {
+   width: 70px;
+   height: auto;
+background-color: #FF5D26; 
+} */
+li {
+   width: 200px;
+   text-decoration: none;
+}
+.project-card {
+   width: 300px;
+   height: 500px;
+   background-color: #FF5D26;
+   box-shadow: 5px 5px 20px #000000;
+}
+.writtings {
+   width: 200px;
+   height: auto;
+   display: block;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .logo { 
+   width: 120px;
+   margin: 30px;
+   display: inline-flex;
+   justify-content: flex-end; 
+}*/
+/* nav {
+   display: flex;
+   justify-content: flex-end;
+} */
+/*.left-side { 
+   width: max-content;
+   display: inline-flex; 
+   justify-content: flex-end;
+   margin: 0px;
+} */
+/* .left-side-signin { 
+    display: ; 
+    padding: 0px; 
+    display: flex;
+    list-style-type: none;
+    width: 500px;
+    justify-content: flex-end;
+    font-size: 30px;
+}  */
