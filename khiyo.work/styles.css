@@ -32,6 +32,7 @@ ul {
     margin: 30px 120px 25px 1px;
     border-radius: 10px;
     text-align: center;
+    z-index: +1;
 }
 .logo {
     margin: 30px 1px 30px 120px;
@@ -50,6 +51,7 @@ ul {
 .project-container {
     display: flex;
     justify-content: space-around;
+    height: 260px;
 }
 .box {
     display: flex;
@@ -91,4 +93,16 @@ h3 {
     font-size: 20px;
     color: white;
     font-weight: 300;
+}
+.left-circle {
+    position: absolute;
+    right: 0;
+    top: 0;
+    size: auto;
+    width: 185px;
+    height: 230px;
+}
+.rectangle-down {
+    width: 120px;
+    height: 180px;
 }
